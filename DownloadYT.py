@@ -16,7 +16,7 @@ def download_youtube_video(url, download_path='.'):
         print(f"An error occurred: {e}")
 
 # URL of the YouTube video to download
-video_url = 'https://www.youtube.com/watch?v=kTx3_WlYiPY'
+video_url = 'https://www.youtube.com/watch?v=_rKlc8k0b50'
 
 # Path where you want to save the downloaded video
 download_path = r"/Users/rohithpallamreddy/Documents/amplify"

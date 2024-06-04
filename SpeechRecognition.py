@@ -65,7 +65,7 @@ def transcribe_audio_segments(segment_paths):
     return " ".join(transcriptions)
 
 # Paths and settings
-video_path = "/Users/rohithpallamreddy/Documents/amplify/Fish Fry - Chepala Chintaku Pulusu Fry - Meen Puliyela Varuval Kappi Chinta Minthe Fry.mp4"
+video_path = "/Users/rohithpallamreddy/Documents/amplify/Bhojanalu Ekkada - 2 [ THE REVENGE ]  Wirally Originals  Tamada Media.mp4"
 audio_path = "/Users/rohithpallamreddy/Documents/amplify/Amrutham_Serial_Ep_197.wav"
 segment_length = 60  # seconds
 
