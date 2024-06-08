@@ -65,7 +65,7 @@ def transcribe_audio_segments(segment_paths):
     return " ".join(transcriptions)
 
 # Paths and settings
-video_path = "/Users/rohithpallamreddy/Documents/amplify/Bhojanalu Ekkada - 2 [ THE REVENGE ]  Wirally Originals  Tamada Media.mp4"
+video_path = "/Users/rohithpallamreddy/Documents/amplify/4 Minutes 24 Headlines  8 AM  30-05-2024 - TV9.mp4"
 audio_path = "/Users/rohithpallamreddy/Documents/amplify/Amrutham_Serial_Ep_197.wav"
 segment_length = 60  # seconds
 
